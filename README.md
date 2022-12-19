@@ -7,4 +7,4 @@ Just some scripts and tipps to easily handle and adminstrate macOS
 
 ## Tools & Others
 
-[CLI-Speedtest](macOS-CLI-Speedtest)
+[macOS-CLI-Speedtest](https://github.com/zensudo/macOS-CLI-Speedtest)
